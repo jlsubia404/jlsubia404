@@ -1,4 +1,9 @@
-### Hello, I'm Jorge Subía 👋
+### Hello guys, I'm Jorge Subía 👋 and this is a little bit about me ⤵️.
+
+Since I was a kid, I was always curious by knowing how computers work, even when I never had a computer at home until going to college. 
+Nowadays, I am really blessed for working with computers especially in software development.
+
+I have been working with Java for around 8 years, however currently, I'm learning NodeJS 🌱, I guess I am in a transition from Java to Javascript.
 
 <!--
 **jlsubia404/jlsubia404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
